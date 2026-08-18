@@ -71,10 +71,6 @@ npm run build
 
 The wizard uses `useForm`, `FormProvider`, `useFormContext`, `useWatch`, `trigger`, `handleSubmit`, and `reset`. Zod owns all validation rules. Each Next action validates only the active step's fields; the review screen is derived directly from the form state. The final submission logs a clearly labeled demo payload to the browser console and shows the success state. No values, including passwords, are persisted to local storage.
 
-## Screenshots
-
-Add screenshots here after deployment or product review.
-
 ## 🌐 Live Demo
 
 🚀 **Live Deployment:** [View OnboardFlow Live](https://sprint7-phi.vercel.app/)
@@ -83,10 +79,22 @@ Add screenshots here after deployment or product review.
 
 Deliver a complete, accessible, responsive onboarding form while keeping credentials in memory only for this frontend demo.
 
-## Developer
+#  Author
 
-Sprint 7 team
+**Niraj Sharma**
+
+**B.Tech Computer Science Engineering (AI & ML)**
+
+Roorkee Institute of Technology
+
+GitHub
+
+https://github.com/Niraj07u
+
 
 ## License
 
-MIT
+This project was developed for educational and internship purposes as part of the **Prodesk IT Sprint 07 Assignment**.
+
+
+Your support is greatly appreciated and motivates future improvements.
